@@ -1,0 +1,36 @@
+body{
+	background-color:#00BFFF;
+
+
+}
+div #menu{
+	background-color:#1E90ff;
+	border-top-left-radius: 20px;
+	border-top-right-radius:20px;
+
+	padding-right:20px;
+	margin-bottom:-25px;
+}
+
+.bar{
+	font-family:Arial;
+	font-size:25px;
+	text-align:right;
+
+}
+#titulo{
+	font-size:30px;
+	text-align: center;
+	font-weight:bold;
+}
+
+.proyectos{
+	/*background-color:#00BFFF;*/
+	background-color:#1e90ff;
+	margin-top:-16px;
+
+}
+
+.ryc{
+	background-color:#6495ED;
+}
